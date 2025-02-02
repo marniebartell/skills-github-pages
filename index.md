@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Marnie Bartell UX Portfolio
 ---
 
+### Hello
+Hello
